@@ -62,7 +62,7 @@
     "cipher-base": "1.0.5",
     "sha.js": "2.4.12",
     "jws": "^4.0.1",
-    "qs": "^6.14.2",
+    "qs": "^6.15.2",
     "glob": "^10.5.0",
     "cross-spawn": "^7.0.6",
     "validator": "^13.15.22",
@@ -72,14 +72,36 @@
     "ts-node": {
       "diff": "^4.0.4"
     },
-    "hono": "^4.12.12",
+    "hono": "^4.12.25",
     "@hono/node-server": "^1.19.13",
-    "vite": "^7.3.2",
-    "@xmldom/xmldom": "^0.8.12",
+    "vite": "^7.3.5",
+    "@xmldom/xmldom": "^0.8.13",
     "lodash": "^4.18.0",
-    "tar": "^7.5.11",
+    "tar": "^7.5.16",
     "flatted": "^3.4.2",
-    "@octokit/request-error": "^5.1.1"
+    "@octokit/request-error": "^5.1.1",
+    "@opentelemetry/core@2": "2.8.0",
+    "fast-uri@3": "3.1.2",
+    "fast-xml-parser@5": "5.7.0",
+    "ip-address@10": "10.1.1",
+    "undici@7": "7.28.0",
+    "@babel/plugin-transform-modules-systemjs": "7.29.4",
+    "@grpc/grpc-js": "1.14.4",
+    "@protobufjs/utf8": "1.1.1",
+    "dompurify": "3.4.11",
+    "fast-xml-builder": "1.1.7",
+    "follow-redirects": "1.16.0",
+    "form-data": "4.0.6",
+    "minimatch@9": "9.0.7",
+    "next": "16.2.6",
+    "postcss": "8.5.10",
+    "protobufjs": "7.6.3",
+    "shell-quote": "1.8.4",
+    "ws@7": "7.5.11",
+    "ws@8": "8.21.0",
+    "bullmq": {
+      "uuid": "11.1.1"
+    }
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",
@@ -136,7 +158,7 @@
     "tsup": "^8.5.0",
     "tsx": "^4.4.0",
     "typescript": "^5.3.2",
-    "vitest": "^3.0.6"
+    "vitest": "^3.2.6"
   },
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.68",
@@ -207,7 +229,7 @@
     "argon2": "^0.31.2",
     "asn1js": "^3.0.6",
     "aws-sdk": "^2.1553.0",
-    "axios": "^1.15.0",
+    "axios": "^1.16.0",
     "axios-ntlm": "^1.4.4",
     "axios-retry": "^4.0.0",
     "bcrypt": "^5.1.1",
@@ -229,7 +251,7 @@
     "isomorphic-dompurify": "^2.22.0",
     "jmespath": "^0.16.0",
     "jose": "^6.1.0",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.2.0",
     "jsonwebtoken": "^9.0.2",
     "jsrp": "^0.2.4",
     "jwks-rsa": "^3.1.0",
@@ -283,7 +305,7 @@
     "tedious": "^18.2.1",
     "tweetnacl": "^1.0.3",
     "tweetnacl-util": "^0.15.1",
-    "uuid": "^11.1.0",
+    "uuid": "^11.1.1",
     "winrm-client": "github:Infisical/winrm-client#v1.0.0",
     "zod": "^3.22.4",
     "zod-to-json-schema": "^3.24.5"
