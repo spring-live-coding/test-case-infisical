@@ -59,6 +59,7 @@
   "author": "",
   "license": "ISC",
   "overrides": {
+    "adm-zip": "0.6.0",
     "cipher-base": "1.0.5",
     "sha.js": "2.4.12",
     "jws": "^4.0.1",
