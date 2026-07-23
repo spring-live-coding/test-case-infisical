@@ -17,6 +17,8 @@
     "build-storybook": "storybook build"
   },
   "overrides": {
+    "brace-expansion@1": "1.1.16",
+    "brace-expansion@2": "2.1.2",
     "sha.js": "2.4.12",
     "flatted": "^3.4.2",
     "rollup": "^4.59.0",
