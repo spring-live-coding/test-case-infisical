@@ -16,6 +16,7 @@
       "qs": "^6.15.2"
     },
     "@koa/router": {
+      ".": "15.0.0",
       "path-to-regexp": "^8.4.0"
     },
     "oidc-provider": {
