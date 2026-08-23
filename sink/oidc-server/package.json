@@ -21,6 +21,7 @@
     "oidc-provider": {
       "koa": ">=3.1.2"
     },
+    "nanoid": "5.1.16",
     "qs": "^6.15.2"
   },
   "dependencies": {
