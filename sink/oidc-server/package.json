@@ -13,7 +13,7 @@
   "overrides": {
     "express": {
       "path-to-regexp": "0.1.13",
-      "qs": "^6.15.2"
+      "qs": "6.16.0"
     },
     "@koa/router": {
       "path-to-regexp": "^8.4.0"
@@ -22,7 +22,7 @@
       "koa": ">=3.1.2"
     },
     "nanoid": "5.1.16",
-    "qs": "^6.15.2"
+    "qs": "6.16.0"
   },
   "dependencies": {
     "axios": "^1.16.0",
