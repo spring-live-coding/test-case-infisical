@@ -42,7 +42,11 @@
     "follow-redirects": "1.16.0",
     "form-data": "4.0.6",
     "protobufjs": "7.6.5",
-    "ws@8": "8.21.0"
+    "ws@8": "8.21.0",
+    "fflate": "0.8.3",
+    "posthog-js": {
+      "fflate": "0.4.9"
+    }
   },
   "dependencies": {
     "@casl/ability": "^6.7.5",
