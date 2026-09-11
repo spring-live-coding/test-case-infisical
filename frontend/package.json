@@ -21,8 +21,11 @@
     "flatted": "^3.4.2",
     "rollup": "^4.59.0",
     "qs": "^6.15.2",
+    "browserslist": "4.28.7",
     "mdast-util-to-hast": "^13.2.1",
-    "js-yaml": "^4.2.0",
+    "js-yaml": "^4.3.2",
+    "brace-expansion@1": "1.1.18",
+    "brace-expansion@2": "2.1.4",
     "storybook": "^9.1.19",
     "tar": "^7.5.16",
     "chokidar": {
@@ -39,7 +42,11 @@
     "follow-redirects": "1.16.0",
     "form-data": "4.0.6",
     "protobufjs": "7.6.5",
-    "ws@8": "8.21.0"
+    "ws@8": "8.21.0",
+    "fflate": "0.8.3",
+    "posthog-js": {
+      "fflate": "0.4.9"
+    }
   },
   "dependencies": {
     "@casl/ability": "^6.7.5",
@@ -114,7 +121,7 @@
     "cva": "npm:class-variance-authority@^0.7.1",
     "date-fns": "^4.1.0",
     "diff": "^8.0.3",
-    "dompurify": "^3.4.11",
+    "dompurify": "^3.4.13",
     "file-saver": "^2.0.5",
     "framer-motion": "^11.14.1",
     "i18next": "^24.1.0",
