@@ -44,6 +44,7 @@
     "protobufjs": "7.6.5",
     "ws@8": "8.21.0",
     "fflate": "0.8.3",
+    "source-map-js": "1.2.2",
     "posthog-js": {
       "fflate": "0.4.9"
     }
