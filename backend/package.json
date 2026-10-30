@@ -89,13 +89,13 @@
     "flatted": "^3.4.2",
     "@octokit/request-error": "^5.1.1",
     "@opentelemetry/core@2": "2.8.0",
-    "fast-uri@2": "2.4.7",
-    "fast-uri@3": "3.1.8",
+    "fast-uri@2": "2.4.8",
+    "fast-uri@3": "3.1.9",
     "fast-xml-parser@5": "5.7.0",
     "ip-address@10": "10.7.1",
     "socket.io-parser@4": "4.2.7",
     "undici@7": "7.29.1",
-    "undici@8": "8.10.2",
+    "undici@8": "8.12.2",
     "@babel/plugin-transform-modules-systemjs": "7.29.4",
     "@grpc/grpc-js": "1.14.5",
     "@protobufjs/utf8": "1.1.1",
@@ -115,7 +115,8 @@
     "source-map-js": "1.2.2",
     "bullmq": {
       "uuid": "11.1.1"
-    }
+    },
+    "zod@4": "4.6.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",
